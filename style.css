@@ -55,7 +55,7 @@ pre, tt {
 }
 
 a, a > tt {
-	color: #224b8d;
+	color: #527bbd;
 	text-decoration: none;
 }
 
@@ -208,7 +208,7 @@ ol {
 }
 
 li p, dd p {
-	margin-bottom: 0.3em;
+	margin-bottom: 0.5em;
 }
 
 
